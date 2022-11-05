@@ -48,6 +48,7 @@ public class mergeSortAlgorithm {
         while (rightarrayindex < rightarray.length) {
             array[arrayindex++] = rightarray[rightarrayindex++];
         }
+        
     }
 
 
